@@ -1,0 +1,17 @@
+{
+  "name": "PoTB Weather 4.0.7",
+  "short_name": "PoTB Weather",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101114",
+  "theme_color": "#101114",
+  "description": "Offline-first trail companion with compact collapsible help",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
